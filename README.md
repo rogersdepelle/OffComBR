@@ -7,9 +7,11 @@ Since OFFCOMBR-3 only contains instances for which the class has been agreed by 
 
 Regarding the categories (racism, sexism, homophobia, xenophobia, religious intolerance, or cursing), the results for each dataset are shown in Table 1. The most common category was by far cursing.  The other categories had few comments.  Religious intole rance was found in only one comment and it was not unanimous.
 
+```
 @article{Pelle2017,
   title={Offensive Comments in the Brazilian Web: a dataset and baseline results},
   author={Rogers P. de Pelle and Viviane P. Moreira},
   booktitle={6th Brazilian Workshop on Social Network Analysis and Mining (BraSNAM)},
   year={2017},
 }
+```
